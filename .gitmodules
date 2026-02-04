@@ -1,0 +1,9 @@
+[submodule "tasteaura-client"]
+	path = tasteaura-client
+	url = https://github.com/nadila2k/tasteaura-client.git
+[submodule "tasteaura-admin"]
+	path = tasteaura-admin
+	url = https://github.com/nadila2k/tasteaura-admin.git
+[submodule "tasteaura-backend"]
+	path = tasteaura-backend
+	url = https://github.com/nadila2k/tasteaura-backend.git
